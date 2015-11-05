@@ -1,0 +1,2 @@
+# BGLayoutCollection
+一个UICollectionView的layout集合
